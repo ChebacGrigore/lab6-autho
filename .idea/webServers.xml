@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="d27bcded-8e6d-4109-ad70-a3be0796f947" name="lb6" url="http://localhost/lb-6/index.php">
-        <fileTransfer mountedRoot="C:\xampp\htdocs\lb-6" accessType="MOUNT" port="0" />
+      <webServer id="d27bcded-8e6d-4109-ad70-a3be0796f947" name="lb6" url="http://localhost/lab6-autho/index.php">
+        <fileTransfer mountedRoot="C:\MAMP\htdocs\lab6-autho" accessType="MOUNT" port="0" />
       </webServer>
     </option>
   </component>
